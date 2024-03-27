@@ -1,0 +1,14 @@
+C:\Users\redsh\source\Homework\19.03.2024(2)\19.03.2024(2)\bin\Debug\net6.0\19.03.2024(2).exe
+C:\Users\redsh\source\Homework\19.03.2024(2)\19.03.2024(2)\bin\Debug\net6.0\19.03.2024(2).deps.json
+C:\Users\redsh\source\Homework\19.03.2024(2)\19.03.2024(2)\bin\Debug\net6.0\19.03.2024(2).runtimeconfig.json
+C:\Users\redsh\source\Homework\19.03.2024(2)\19.03.2024(2)\bin\Debug\net6.0\19.03.2024(2).dll
+C:\Users\redsh\source\Homework\19.03.2024(2)\19.03.2024(2)\bin\Debug\net6.0\19.03.2024(2).pdb
+C:\Users\redsh\source\Homework\19.03.2024(2)\19.03.2024(2)\obj\Debug\net6.0\19.03.2024(2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redsh\source\Homework\19.03.2024(2)\19.03.2024(2)\obj\Debug\net6.0\19.03.2024(2).AssemblyInfoInputs.cache
+C:\Users\redsh\source\Homework\19.03.2024(2)\19.03.2024(2)\obj\Debug\net6.0\19.03.2024(2).AssemblyInfo.cs
+C:\Users\redsh\source\Homework\19.03.2024(2)\19.03.2024(2)\obj\Debug\net6.0\19.03.2024(2).csproj.CoreCompileInputs.cache
+C:\Users\redsh\source\Homework\19.03.2024(2)\19.03.2024(2)\obj\Debug\net6.0\19.03.2024(2).dll
+C:\Users\redsh\source\Homework\19.03.2024(2)\19.03.2024(2)\obj\Debug\net6.0\refint\19.03.2024(2).dll
+C:\Users\redsh\source\Homework\19.03.2024(2)\19.03.2024(2)\obj\Debug\net6.0\19.03.2024(2).pdb
+C:\Users\redsh\source\Homework\19.03.2024(2)\19.03.2024(2)\obj\Debug\net6.0\19.03.2024(2).genruntimeconfig.cache
+C:\Users\redsh\source\Homework\19.03.2024(2)\19.03.2024(2)\obj\Debug\net6.0\ref\19.03.2024(2).dll
